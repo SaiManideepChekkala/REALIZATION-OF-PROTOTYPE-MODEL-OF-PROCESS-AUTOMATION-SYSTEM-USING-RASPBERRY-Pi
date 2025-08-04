@@ -1,0 +1,13 @@
+<MyLayout>
+	BoxLayout:
+		orientation:"vertical"
+		size:root.width,root.height
+
+		Label:
+			id:my_Label
+			font_size:32
+			text:"LED status: off"
+		Switch:
+			active:False
+			font_size:40
+			on_active:root.switch_click(self,self.active)
