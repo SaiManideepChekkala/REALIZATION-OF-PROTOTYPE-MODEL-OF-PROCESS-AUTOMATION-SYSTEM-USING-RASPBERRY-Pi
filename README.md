@@ -135,7 +135,7 @@ Manideep_Yashwanth/
 ---
 ## 🙌 Acknowledgments
 
-Developed by:
-- **Sai Manideep C.**
+🎓 Developed by: *Ch. Sai Manideep*  
+🏫 Capstone Project  
+🎯 Tech: Raspberry Pi, Python, Kivy, Socket Programming, Temperature Monitoring, Automation, IoT
 
-Special thanks to mentors and faculty who supported this embedded-IoT hybrid prototype.
